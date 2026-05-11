@@ -501,6 +501,8 @@ Co-DETR + Swin-L Backbone + 多尺度训练 + TTA + 集成学习
 
 ---
 
+## 思考题
+
 <details>
 <summary><strong>思考题</strong></summary>
 
