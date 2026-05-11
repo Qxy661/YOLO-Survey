@@ -6,6 +6,21 @@
 
 ---
 
+## 目录
+
+1. [1. IoU Loss -- 起点](#1-iou-loss----起点)
+2. [2. GIoU（Generalized IoU）](#2-giougeneralized-iou)
+3. [3. DIoU（Distance IoU）](#3-dioudistance-iou)
+4. [4. CIoU（Complete IoU）](#4-cioucomplete-iou)
+5. [5. SIoU（SCYLLA-IoU）](#5-siouscylla-iou)
+6. [6. WIoU v3（Wise-IoU v3）](#6-wiou-v3wise-iou-v3)
+7. [7. Inner-IoU](#7-inner-iou)
+8. [8. 全系列对比总结](#8-全系列对比总结)
+9. [9. 在不同 YOLO 版本中的应用](#9-在不同-yolo-版本中的应用)
+
+---
+
+
 ## 1. IoU Loss -- 起点
 
 ### 1.1 定义

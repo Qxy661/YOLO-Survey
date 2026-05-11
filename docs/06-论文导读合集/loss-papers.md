@@ -4,6 +4,21 @@
 
 ---
 
+## 目录
+
+1. [1. Focal Loss — 解决正负样本极度不均衡](#1-focal-loss-解决正负样本极度不均衡)
+2. [2. GIoU Loss — 引入最小外接矩形的 IoU 改进](#2-giou-loss-引入最小外接矩形的-iou-改进)
+3. [3. DIoU / CIoU Loss — 距离与纵横比的双重约束](#3-diou-ciou-loss-距离与纵横比的双重约束)
+4. [4. SIoU Loss — 引入角度感知的损失函数](#4-siou-loss-引入角度感知的损失函数)
+5. [5. WIoU Loss — 基于动态非单调聚焦机制的 IoU](#5-wiou-loss-基于动态非单调聚焦机制的-iou)
+6. [6. DFL（Distribution Focal Loss）— 分布式边界框回归](#6-dfldistribution-focal-loss-分布式边界框回归)
+7. [7. VariFocal Loss — 统一分类与定位质量](#7-varifocal-loss-统一分类与定位质量)
+8. [8. Quality Focal Loss（QFL）— 分类质量联合监督](#8-quality-focal-lossqfl-分类质量联合监督)
+9. [9. Inner-IoU — 基于辅助框的 IoU 变体](#9-inner-iou-基于辅助框的-iou-变体)
+
+---
+
+
 ## 1. Focal Loss — 解决正负样本极度不均衡
 
 | 字段 | 内容 |

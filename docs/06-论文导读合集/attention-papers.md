@@ -6,6 +6,21 @@
 
 ---
 
+## 目录
+
+1. [1. SENet — Squeeze-and-Excitation Networks](#1-senet-squeeze-and-excitation-networks)
+2. [2. CBAM — Convolutional Block Attention Module](#2-cbam-convolutional-block-attention-module)
+3. [3. Coordinate Attention (CA)](#3-coordinate-attention-ca)
+4. [4. ECA-Net — Efficient Channel Attention](#4-eca-net-efficient-channel-attention)
+5. [5. BAM — Bottleneck Attention Module](#5-bam-bottleneck-attention-module)
+6. [6. DANet — Dual Attention Network for Scene Segmentation](#6-danet-dual-attention-network-for-scene-segmentation)
+7. [7. GAM — Global Attention Mechanism](#7-gam-global-attention-mechanism)
+8. [8. SimAM — A Simple, Parameter-Free Attention Module for Convolutional Neural Networks](#8-simam-a-simple-parameter-free-attention-module-for-convolutional-neural-networks)
+9. [9. CoTAttention — Contextual Transformer Networks for Visual Recognition](#9-cotattention-contextual-transformer-networks-for-visual-recognition)
+
+---
+
+
 ## 1. SENet — Squeeze-and-Excitation Networks
 
 **一句话总结：** 首次提出通道注意力机制，通过"压缩-激励"两步操作自适应地重新校准通道特征响应。
