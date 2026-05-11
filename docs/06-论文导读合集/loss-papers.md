@@ -196,6 +196,12 @@
 - **3D IoU 变体**：IoU3D、GIoU3D 等在点云/3D 检测中的应用
 - **Loss 函数设计综述**：A Survey of Loss Functions in Computer Vision
 
+### 相关文档
+
+- [01-IoU系列损失](../04-损失函数专题/01-IoU系列损失.md) — IoU 系列损失详解
+- [02-分类损失](../04-损失函数专题/02-分类损失.md) — 分类损失详解
+- [03-分布式焦点损失DFL](../04-损失函数专题/03-分布式焦点损失DFL.md) — DFL 原理详解
+
 ---
 
 <details>

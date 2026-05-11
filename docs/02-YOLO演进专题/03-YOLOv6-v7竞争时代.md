@@ -597,3 +597,11 @@ Wang 等人在实验中发现：
 - 因此提出了 "Planned re-parameterized convolution"，根据层的位置和功能选择性地应用重参数化
 - 这体现了"并非所有技巧都适用于所有位置"的工程思想
 </details>
+
+## 延伸阅读
+
+### 相关文档
+
+- [02-YOLOv4-v5工业时代](02-YOLOv4-v5工业时代.md) — YOLOv4/v5 工业实践
+- [04-YOLOv8统一架构](04-YOLOv8统一架构.md) — YOLOv8 统一架构
+- [05-YOLOv9-v11最新进展](05-YOLOv9-v11最新进展.md) — YOLOv9-v12 最新进展

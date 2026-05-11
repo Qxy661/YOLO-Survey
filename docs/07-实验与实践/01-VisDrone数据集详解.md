@@ -301,6 +301,13 @@ datasets/VisDrone/
 - [Ultralytics VisDrone 教程](https://docs.ultralytics.com/datasets/detect/visdrone/)
 - [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi)
 
+### 相关文档
+
+- [02-实验复现指南](02-实验复现指南.md) — 实验环境配置与复现
+- [03-消融实验设计](03-消融实验设计.md) — 消融实验设计方法
+- [04-我们的实验总结](04-我们的实验总结.md) — 五轮实验完整总结
+- [05-VisDrone检测综述](../03-小目标检测专题/05-VisDrone检测综述.md) — VisDrone 检测方法综述
+
 ## 思考题
 
 <details>
